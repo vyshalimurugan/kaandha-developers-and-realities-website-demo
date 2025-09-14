@@ -25,7 +25,7 @@ a {
 a:hover,
 a:active,
 a:focus {
-    color: #1ba72e7d;
+    color: #0e48167d;
     outline: none;
     text-decoration: none;
 }
@@ -45,7 +45,7 @@ a:focus {
 .back-to-top {
     position: fixed;
     display: none;
-    background: #1ba72e7d;
+    background:#0e48167d;
     color: #ffffff;
     width: 44px;
     height: 44px;
@@ -78,7 +78,7 @@ a:focus {
 .top-bar {
     position: relative;
     height: 90px;
-    background: #1ba72e7d;
+    background: #056011;
 }
 
 .top-bar .logo {
@@ -155,7 +155,7 @@ a:focus {
 /**********************************/
 .nav-bar {
     position: relative;
-    background: #1ba72e7d;
+    background: #0e48167d;
     transition: .3s;
 }
 
@@ -187,7 +187,7 @@ a:focus {
 
 .navbar-dark .navbar-nav .nav-link:hover,
 .navbar-dark .navbar-nav .nav-link.active {
-    color: #1ba72e7d;
+    color: #0e48167d;
     transition: none;
 }
 
@@ -206,8 +206,8 @@ a:focus {
 
 .nav-bar .btn:hover {
     color: #030f27;
-    background: #1ba72e7d;
-    border-color: #1ba72e7d;
+    background: #0e48167d;
+    border-color: #0e48167d;
 }
 
 @media (min-width: 992px) {
